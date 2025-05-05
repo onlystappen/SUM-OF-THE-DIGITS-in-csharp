@@ -1,0 +1,7 @@
+C:\Users\arda\source\repos\SUM OF THE DİGİTS\bin\Debug\SUM OF THE DİGİTS.exe.config
+C:\Users\arda\source\repos\SUM OF THE DİGİTS\bin\Debug\SUM OF THE DİGİTS.exe
+C:\Users\arda\source\repos\SUM OF THE DİGİTS\bin\Debug\SUM OF THE DİGİTS.pdb
+C:\Users\arda\source\repos\SUM OF THE DİGİTS\obj\Debug\SUM OF THE DİGİTS.csproj.AssemblyReference.cache
+C:\Users\arda\source\repos\SUM OF THE DİGİTS\obj\Debug\SUM OF THE DİGİTS.csproj.CoreCompileInputs.cache
+C:\Users\arda\source\repos\SUM OF THE DİGİTS\obj\Debug\SUM OF THE DİGİTS.exe
+C:\Users\arda\source\repos\SUM OF THE DİGİTS\obj\Debug\SUM OF THE DİGİTS.pdb
