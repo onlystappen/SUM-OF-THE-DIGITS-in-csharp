@@ -10,7 +10,7 @@ namespace SUM_OF_THE_DİGİTS
     {
         static void Main(string[] args)
         {
-            #region Last Example-TOTAL OF DIGITS OF NUMBER ENTERED FROM KEYBOARD
+            #region TOTAL OF DIGITS OF NUMBER ENTERED FROM KEYBOARD
 
             Console.Write("Enter a Number (Max 3 digits) : ");
             int number = int.Parse(Console.ReadLine());
